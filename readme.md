@@ -23,7 +23,7 @@ Este repositorio contiene un proyecto interactivo desarrollado con [Three.js](ht
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/haunted-house-threejs.git
+git clone https://github.com/JuanSolis/haunted_house_threejs.git
 cd haunted-house-threejs
 ```
 
